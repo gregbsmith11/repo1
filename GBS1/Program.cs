@@ -10,6 +10,7 @@ namespace GBS1
     {
         static void Main(string[] args)
         {
+            Console.Write("help");
         }
     }
 }
